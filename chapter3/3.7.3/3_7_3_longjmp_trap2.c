@@ -31,5 +31,6 @@ int main(void)
     } else {
         cout << "Longjump flow" << endl;
     }
+    return 0;
 }
 
